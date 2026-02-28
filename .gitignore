@@ -1,0 +1,11 @@
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (Crucial for later in the course!)
+node_modules/
